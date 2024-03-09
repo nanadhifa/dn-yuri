@@ -1,0 +1,24 @@
+{
+  "name": "dn-yuri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanadhifa/dn-yuri.git"
+  },
+  "author": "yuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanadhifa/dn-yuri/issues"
+  },
+  "homepage": "https://github.com/nanadhifa/dn-yuri#readme",
+  "dependencies": {
+    "asbakuntul": "^1.0.0",
+    "dn-hokage": "^1.0.0",
+    "pengikut-sesat": "^1.0.0"
+  }
+}
